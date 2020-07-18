@@ -1,0 +1,20 @@
+.mesa {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.tarjeta {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 20px 20px;
+  width: 20px;
+  text-align: center;
+  background: aliceblue;
+  box-shadow: 0px 1px 2px gray;
+  border-radius: 15px;
+}
+
+.acertada {
+  opacity: 0;
+}
